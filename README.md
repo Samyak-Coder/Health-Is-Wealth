@@ -1,1 +1,2 @@
-# Health-Is-Wealth
+Health is a condition of a person's body, and health of a person depends on its diet. Nowardays children don't get the importance of eating healthy food so I decided to create a simple JavaScript game in which children can get to understand the importance of health.
+So the game would be a very simple game. THere would be different kinds of food items arrising in the game from nowhere and you have to use your space bar to jum and eat them, there would be two kinds of food items Fast Food and Healthy food and different kinds of scores for the food respect to how they affect to our health.
